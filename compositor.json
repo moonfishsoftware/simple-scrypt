@@ -20,12 +20,12 @@
       "letterSpacing": "0.1em"
     },
     "colors": {
-      "text": "#346",
+      "text": "#dde0e8",
       "background": "#fff",
       "primary": "#0099e0",
       "secondary": "#ab61ff",
       "highlight": "#f7b",
-      "muted": "#fffab3",
+      "muted": "#2b2d70",
       "border": "#ccd"
     }
   },
